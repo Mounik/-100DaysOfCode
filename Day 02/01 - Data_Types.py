@@ -3,7 +3,7 @@ two_digit_number = input("Type a two digit number: ")
 # 🚨 Don't change the code above 👆
 
 ####################################
-#Write your code below this line 👇
+# Write your code below this line 👇
 
 # On récupère les chiffres un par un et on les transforme en integer
 one = int(two_digit_number[0])
