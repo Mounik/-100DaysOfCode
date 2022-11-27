@@ -14,7 +14,7 @@ Voyons voir jusqu'où cela va me mener :)
 
 ### Jour 1: 26/11/2022
 
-**Progrès**: Fonction print et iput, manipulation des variables et création d'un générateur de nom de groupe de musique
+**Progrès**: Fonction print et input, manipulation des variables et création d'un générateur de nom de groupe de musique
 
 **Pensées**: Très simple.
 
