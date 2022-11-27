@@ -7,6 +7,6 @@ weight = input("enter your weight in kg: ")
 # On fait le calcul de l'IMC
 IMC = float(weight) / float(height) ** 2
 # On transforme le résultat en integer
-IMC_int = int(IMC)
+IMC_int = round(IMC, 2)
 # On affiche le résultat
 print(f"Votre IMC est de {IMC_int}")
