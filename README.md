@@ -25,7 +25,7 @@ Voyons voir jusqu'où cela va me mener :)
 
 **Apprentissage**: Data Types, Numbers, Operations, Type Conversion, f-Strings
 
-**Difficultées**: Très simple.
+**Difficultées**: Très simple, mais faut commencer à refléchir.
 
 **Lien vers les travaux**: [Day 02](https://github.com/Mounik/100DaysOfCode/tree/main/Day%2002)
 
