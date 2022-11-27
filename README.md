@@ -14,8 +14,8 @@ Voyons voir jusqu'où cela va me mener :)
 
 ### Jour 1: 26/11/2022
 
-**Progrès**: Fonction print et input, manipulation des variables et création d'un générateur de nom de groupe de musique
+**Apprentissage**: Fonction print et input, manipulation des variables et création d'un générateur de nom de groupe de musique
 
-**Pensées**: Très simple.
+**Difficultées**: Très simple.
 
 **Lien vers les travaux**: [Day 01](https://github.com/Mounik/100DaysOfCode/tree/main/Day%2001)
