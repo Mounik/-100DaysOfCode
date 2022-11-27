@@ -34,4 +34,4 @@ Data Types, Numbers, Operations, Type Conversion, f-Strings
 
 Très simple.
 
-**Lien vers les travaux**: [Day 01](https://github.com/Mounik/100DaysOfCode/tree/main/Day%2001)
+**Lien vers les travaux**: [Day 02](https://github.com/Mounik/100DaysOfCode/tree/main/Day%2002)
