@@ -14,24 +14,17 @@ Voyons voir jusqu'où cela va me mener :)
 
 ### Jour 1: 26/11/2022
 
-**Apprentissage**: 
+**Apprentissage**: Printing, Commenting, Debugging, String Manipulation and Variables
 
-Printing, Commenting, Debugging, String Manipulation and Variables
-
-**Difficultées**: 
-
-Très simple.
+**Difficultées**: Très simple.
 
 **Lien vers les travaux**: [Day 01](https://github.com/Mounik/100DaysOfCode/tree/main/Day%2001)
-
+----
 ### Jour 2: 27/11/2022
 
-**Apprentissage**: 
+**Apprentissage**: Data Types, Numbers, Operations, Type Conversion, f-Strings
 
-Data Types, Numbers, Operations, Type Conversion, f-Strings
-
-**Difficultées**: 
-
-Très simple.
+**Difficultées**: Très simple.
 
 **Lien vers les travaux**: [Day 02](https://github.com/Mounik/100DaysOfCode/tree/main/Day%2002)
+----
