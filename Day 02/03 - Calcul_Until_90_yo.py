@@ -12,5 +12,5 @@ days_remaining = years_remaining * 365
 week_remaining = years_remaining * 52
 month_remaining = years_remaining * 12
 # Affichage du resultat en f-String
-message = f"You have {days_remaining} days, {week_remaining} weeks, and {month_remaining} months before 90 years old"
+message = f"You have {days_remaining} days, {week_remaining} weeks, and {month_remaining} months before 90 years old."
 print(message)
