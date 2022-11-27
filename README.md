@@ -1,7 +1,9 @@
 # 100DaysOfCode
 
 Apprentissage de Python en suivant le challenge du 100 Day Of Code
+
 Cours Udemy : [100 Days of Code: The Complete Python Pro Bootcamp for 2023](https://www.udemy.com/course/100-days-of-code/)
+
 Coder 100 jours en apprenant de nouveaux concept chaque jours
 
 Voyons voir jusqu'où cela va me mener :)
