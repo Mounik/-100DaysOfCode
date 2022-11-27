@@ -8,6 +8,8 @@ Coder 1h pendant 100 jours en apprenant de nouveaux concept à chaque fois
 
 Voyons voir jusqu'où cela va me mener :)
 
+----
+
 # 100 Jours de Code - Log
 
 ### Jour 1: 26/11/2022
