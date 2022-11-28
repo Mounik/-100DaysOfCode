@@ -1,6 +1,6 @@
-## Treasure Island
+# Treasure Island
 
-# Instructions
+## Instructions
 
 Make your own "Choose Your Own Adventure" game. Use conditionals such as `if`, `else`, and `elif` statements to lay out the logic and the story's path in your program. 
 
@@ -12,7 +12,7 @@ However, I think the fun part is writing your *own* story 😊
 
 That said if you'd like to continue with my example, feel free to use the text snippets below...
 
-### Text Snippets from my example
+## Text Snippets from my example
 
 * 'You\'re at a crossroad. Where do you want to go? Type "left" or "right"'
 * 'You\'ve come to a lake. There is an island in the middle of the lake. Type "wait" to wait for a boat. Type "swim" to swim across.'
@@ -24,11 +24,11 @@ That said if you'd like to continue with my example, feel free to use the text s
 * "You get attacked by an angry trout. Game Over."
 * "You fell into a hole. Game Over."
 
-# Escaping Characters
+## Escaping Characters
 
 If you want to use multiple sets of quotes inside a single string, you might have to "escape" some of them using the backslash `\`. You can see this in my first sentence: 'You\'re at a crossroad...'. [More on escaping characters here.](https://www.w3schools.com/python/gloss_python_escape_characters.asp)
 
-# Extensions
+## Extensions
 
 Have a think about how you might write your program to make a player's answers less case-sensitive. In other words, your code should work regardless of whether your user answers "left" or "Left".
 
