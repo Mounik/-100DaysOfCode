@@ -13,6 +13,6 @@ a, b = b, a
 ####################################
 
 # 🚨 Don't change the code below 👇
-print("a: " + a)
-print("b: " + b)
+print(f"a: {a}")
+print(f"b: {b}")
 # 🚨 Don't change the code above 👆

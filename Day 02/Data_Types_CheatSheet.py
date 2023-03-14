@@ -25,7 +25,7 @@ num_char = len(input("What is your name?\n"))
 # On le converti en string
 new_num_char = str(num_char)
 # On imprime le résultat
-print("Your name has " + new_num_char + " characters.")
+print(f"Your name has {new_num_char} characters.")
 
 # Plus rapide le f-string
 num_char = len(input("What is your name?\n"))

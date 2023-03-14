@@ -8,20 +8,16 @@ extra_cheese = input("Do you want extra cheese? Y or N ")
 #Write your code below this line 👇
 bill = 0
 # Taille de la pizza
-if size == "S":
-    bill += 15
-elif size == "M":
+if size == "M":
     bill += 20
+elif size == "S":
+    bill += 15
 else:
     bill += 25
 
 # Supplément Pepperoni ?
 if add_pepperoni == "Y":
-    if size == "S":
-        bill += 2
-    else:
-        bill += 3
-
+    bill += 2 if size == "S" else 3
 # Supplément Fromage ?
 if extra_cheese == "Y" :
     bill += 1
